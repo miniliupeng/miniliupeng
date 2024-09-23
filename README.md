@@ -28,3 +28,19 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
+
+<!-- 背景图 -->
+<br />
+<br />
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 关于我</h2>
+<br />
+
+- 🔭 目前在北京工作
+- 🏋 喜欢学习，看各种掘进文章、前端视频
+- 👨‍💻 有[个人博客](https://www.minierpeng.top/)，目前还在改进中 
+- 👻 喜欢在 [掘金](https://juejin.cn/user/3913917128252200)分享一些自己的东西
+- ⛺️ 玩的游戏：LOL（翡翠水平）、DNF（6.9w名望）
+- 📨 可以通过QQ邮箱（2254842466@qq.com）联系我~~
