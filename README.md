@@ -29,11 +29,6 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 关于我</h2>
 <br />
