@@ -33,9 +33,13 @@
 <h2 height="200px" align="center">🎉 关于我</h2>
 <br />
 
-- 🔭 目前在北京工作
-- 🏋 喜欢学习，看各种掘进文章、前端视频
-- 👨‍💻 有[个人博客](https://www.minierpeng.top/)，目前还在改进中 
-- 👻 喜欢在 [掘金](https://juejin.cn/user/3913917128252200)分享一些自己的东西
-- ⛺️ 玩的游戏：LOL（翡翠水平）、DNF（6.9w名望）
-- 📨 可以通过QQ邮箱（2254842466@qq.com）联系我~~
+- 熟练掌握前端主流框架和技术React、Vue，理解React和Vue底层原理。
+- 精通前端工程化和模块化开发，对前端构建工具Vite有较深理解。
+- 掌握AST编译原理，熟练使用AST explorer、TypeScript AST Viewer可视化工具结合Babel /
+- Typescript CompilerAPI做代码分析与代码加工。
+- 熟悉通过Nodejs开发一些cli和插件。
+- 熟悉前端性能优化，对前端缓存技术与方案有深刻认知。
+- 熟练使用前端调试工具。
+- 对CSS有独特理解，精通CSS防御性编程。
+- 熟悉各类可视化流程编排引擎antvG6、antvX6、xflow、logicflow框架。
+- 对 Astro、Svelte、React Native有过相关实践。
